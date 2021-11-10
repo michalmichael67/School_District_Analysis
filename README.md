@@ -22,7 +22,7 @@ Including Thomas High School 9th Grade:
 !["School_with_ninth.png"](Screenshots/School_with_ninth.png)
 
 Not Including Thomas High School 9th Grade:
-!["School_without_ninth.png"](Screenshots/School_without_ninth.png)
+!["school_without_ninth.png"](Screenshots/school_without_ninth.png)
 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -38,8 +38,13 @@ Not Including Thomas High School 9th Grade:
 
 ### How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
+    The Math and reading scores are unchanged when the 9th graders from Thomas High School are removed. There is simply an NaN in the 9th grade column.
     - Scores by school spending
+    The Average scores for passing math and reading do not increase as spending increases. If you look at the top performing school, Cabrera high School, you can see that it received the lowest bidget per student.
+    !["spending.png"](Screenshots/spending.png)
+    
     - Scores by school size
+    
     - Scores by school type
     
 ## Summary
